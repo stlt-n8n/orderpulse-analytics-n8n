@@ -89,3 +89,31 @@ All credentials, IDs and sensitive information have been removed.
 ## 📄 License
 
 MIT
+
+---
+
+---
+
+# 📸 Screenshots
+
+## Workflow Overview
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
+---
+
+## Telegram Report
+
+![Telegram Report](screenshots/telegram-report.png)
+
+---
+
+## Processing Queue
+
+![Processing Queue](screenshots/processing-queue.png)
+
+---
+
+## Analytics Dashboard
+
+![Analytics Dashboard](screenshots/dashboard.png)
