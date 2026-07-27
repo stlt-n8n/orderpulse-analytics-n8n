@@ -1,3 +1,5 @@
+![OrderPulse Analytics](assets/banner.png)
+
 # 🚀 OrderPulse Analytics (n8n)
 
 An automated order analytics workflow built with **n8n**, **Google Sheets**, **JavaScript**, and **Telegram**.
